@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="4df3456e16875ef00d9580f5bcca50d985f778d33d52de7b" />
+          <option name="urlString" value="http://127.0.0.1:8888/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="4df3456e16875ef00d9580f5bcca50d985f778d33d52de7b" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="9263db698f52b8131eec889c4840e1d811bdde86a4d9327a" />
+          <option name="urlString" value="http://127.0.0.1:8889/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="9263db698f52b8131eec889c4840e1d811bdde86a4d9327a" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="4ae277a052ba79a5b778a06313bb33e6cc258d66fc66f1a9" />
+          <option name="urlString" value="http://localhost:8888/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="4ae277a052ba79a5b778a06313bb33e6cc258d66fc66f1a9" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="4abe204573fd47b4b607a0d5440da6c4" />
+          <option name="urlString" value="https://ead-jupyter.inf.hszg.de/user/dmuessig/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="4abe204573fd47b4b607a0d5440da6c4" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Bayes/Workspace/.idea/Workspace.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="4df3456e16875ef00d9580f5bcca50d985f778d33d52de7b" />
+              <option name="urlString" value="http://127.0.0.1:8888/" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="4df3456e16875ef00d9580f5bcca50d985f778d33d52de7b" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../2Area/qc-kompetenznetzwerk-sachsen/01_Schaufenster/.idea/01_Schaufenster.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
